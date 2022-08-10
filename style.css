@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .brad {
   border: none;
   border-radius: 5rem !important;
